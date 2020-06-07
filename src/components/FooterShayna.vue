@@ -9,9 +9,9 @@
                             <a href="#"><img src="img/logo_website_shayna_white.png" alt="" /></a>
                         </div>
                         <ul>
-                            <li>Address: Setra Duta, Bandung</li>
-                            <li>Phone: +628 22081996</li>
-                            <li>Email: hello.shayna@gmail.com</li>
+                            <li>Address: Bekasi, Jawa Barat</li>
+                            <li>Phone: +628 123 0000 91</li>
+                            <li>Email: mybalokid@gmail.com</li>
                         </ul>
                         <div class="footer-social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
@@ -54,7 +54,7 @@
                            
                                2020
                            
-                            All rights reserved | Sabila
+                            All rights reserved | Sabila Store
                         </div>
                     </div>
                 </div>
