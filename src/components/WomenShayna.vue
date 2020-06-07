@@ -142,7 +142,7 @@ export default {
 },
 mounted(){
     axios
-        .get("http://shayna-backend.belajarkoding.com/api/products")
+        .get("https://sandangan.xyz/api/products")
         .then(res => (this.products = res.data.data.data))
         .catch(err => console.log(err));
 }
