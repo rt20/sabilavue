@@ -129,7 +129,7 @@ methods:{
       }
     }
     axios
-        .get("http://shayna-backend.belajarkoding.com/api/products", {
+        .get("https://sandangan.xyz/api/products", {
             params: {
                 id:this.$route.params.id
             }
