@@ -167,7 +167,7 @@ methods: {
         };
 
         axios
-        .post("http://sandangan.xyz/api/checkout", checkoutData)
+        .post("http://fashion.balok.id/api/checkout", checkoutData)
         .then(() => this.$router.push("success"))
         .catch(err => console.log(err));
     }
