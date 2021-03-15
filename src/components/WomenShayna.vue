@@ -142,7 +142,7 @@ export default {
 },
 mounted(){
     axios
-        .get("https://tokobaju.balok.id/api/products")
+        .get("https://fashion.balok.id/api/products")
         .then(res => (this.products = res.data.data.data))
         .catch(err => console.log(err));
 }
