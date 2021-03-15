@@ -129,7 +129,7 @@ methods:{
       }
     }
     axios
-        .get("https://fashion.balok.id/api/products", {
+        .get("http://fashion.balok.id/api/products", {
             params: {
                 id:this.$route.params.id
             }
